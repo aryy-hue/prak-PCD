@@ -1,1 +1,1 @@
-# prak-PCD
+# Praktikum PCD
